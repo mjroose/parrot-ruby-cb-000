@@ -3,4 +3,5 @@
 
 def parrot(message="Squak!")
   puts message
+  message
 end
